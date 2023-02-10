@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "rangav.vscode-thunder-client",
+    "dracula-theme.theme-dracula",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ionutvmi.path-autocomplete",
+    "formulahendry.auto-rename-tag"
+  ]
+}

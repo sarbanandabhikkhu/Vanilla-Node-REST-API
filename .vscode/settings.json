@@ -1,0 +1,18 @@
+{
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.colorTheme": "Dracula",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true
+    // "source.organizeImports": true
+  },
+  "javascript.validate.enable": true, //disable all built-in syntax checking
+  "eslint.alwaysShowStatus": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
